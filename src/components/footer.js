@@ -45,17 +45,17 @@ function Footer() {
     <div>
       <h6>You can find me on.</h6>
       <Link
-        to={{ pathname: "https://github.com//ninde username hak" }}
+        to={{ pathname: "https://github.com/shakteeshbhat" }}
         target='_blank'
         aria-label='Github'
       ><GitHub style={{color:"black"}}/></Link>
       <Link
-        to={{ pathname: "https://www.facebook.com//ninde username hak" }}
+        to={{ pathname: "https://www.facebook.com/shaktheesh.bhat" }}
         target='_blank'
         aria-label='facebook'
       ><Facebook style={{color:"black"}}/></Link>
       <Link
-        to={{ pathname: "https://www.linkedin.com/in/ninde username hak" }}
+        to={{ pathname: "https://www.linkedin.com/in/shakteesh-bhat-5412a81a2/" }}
         target='_blank'
         aria-label='LinkedIn'
       ><LinkedIn style={{color:"black"}}/></Link>
